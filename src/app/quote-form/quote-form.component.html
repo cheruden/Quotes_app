@@ -2,7 +2,8 @@
   <form (ngSubmit)="submitQuote()">
 
     <br>
-
+     <div class="row">
+       <div class="col-md-6">
     <div class="form-group">
       <label for="name"><strong>Person's Name:</strong></label>
       <input type="text" name="publisher" class="form-control" id="exampleFormControlInput1"
@@ -14,13 +15,17 @@
       <input type="text" name="quote" class="form-control" id="exampleFormControlInput1" [(ngModel)]="quoteStr"
         placeholder="Add Your Quote Here:"><br><br>
     </div>
+    </div>
+    <div class="col-md-6">
 
     <div class="form-group">
       <label for="author"><strong>Author:</strong></label>
       <input type="text" name="author" class="form-control" id="exampleFormControlInput1" [(ngModel)]="quoteAuthor"
         placeholder="Add Name of the Author Here:"><br><br>
-    </div>
+    </div><br>
 
     <button type="submit" class="btn btn-primary">Post Quote</button>
+  </div>
+  </div>
   </form>
 </div>
