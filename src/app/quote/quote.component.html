@@ -7,7 +7,9 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-md-10">
+    
+    <div class="card">
+    <div class="col-md-6">
       <hr>
       <div class="myQuote" *ngFor="let quote of quotes; let i=index">
         <p appHighlight *ngIf="highestUpvote()===quote.upvotes && quote.upvotes>0">{{quote.quote}}</p>
@@ -24,6 +26,7 @@
         <hr>
 
       </div>
+    </div>
     </div>
   </div>
 </div>
