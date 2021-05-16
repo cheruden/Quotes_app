@@ -5,7 +5,7 @@
 .container-fluid {
   /* padding: 1px; */
   text-align: center;
-  background-color: blue;
+  background-color: rgb(235, 235, 238);
   font-family: 'Times New Roman', Times, serif;
   font-size: 70px;
 }
