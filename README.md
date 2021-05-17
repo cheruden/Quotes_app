@@ -1,4 +1,4 @@
-# Delani-Studio
+# Quotes-app
 ## Author
 DENNIS CHERUIYOT
 ## Description
