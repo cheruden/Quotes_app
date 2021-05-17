@@ -1,3 +1,8 @@
+# Delani-Studio
+## Author
+DENNIS CHERUIYOT
+## Description
+It is a website that shows the different sections in our studio. It has a section for services,portfolio,what we can do and a form to contact us. It employs various skills for coding.
 # Quotes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
