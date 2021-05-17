@@ -2,7 +2,7 @@
 ## Author
 DENNIS CHERUIYOT
 ## Description
-It is a website that shows the different sections in our studio. It has a section for services,portfolio,what we can do and a form to contact us. It employs various skills for coding.
+It is an app that allows the user to insert a quote and can be upvoted or downvoted and the upvoted or downvoted can be counted and displayed. The quote can also be deleted when needed to do so.
 # Quotes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
